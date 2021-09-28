@@ -1,0 +1,6 @@
+.App {
+  background: rgb(228, 213, 213);
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
